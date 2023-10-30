@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Thanh. My full name is Le Duc Thanh.
+- 👀 I’m interested in programming and also having love with playing sports.
+- 🌱 I’m currently learning university of information technology in Ho Chi Minh city.
+- 💞️ I’m looking to collaborate on some famous companies to enhance my living condition.
+- I'm really keen on programming and I'm preparing to learn machine learning, computer vision just like my major in my university I'm learning at. I hope I can fully follow my enthusiasm in programming.
